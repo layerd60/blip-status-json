@@ -8,6 +8,6 @@
   "bin": { "blip-status": "index.js" },
   "engines": { "node": ">=18.17" },
   "files": ["index.js"],
-  "repository": { "type": "git", "url": "https://github.com/rahatrt/blip-status-json.git" },
+  "repository": { "type": "git", "url": "git+https://github.com/layerd60/blip-status-json.git" },
   "scripts": { "test": "node index.js" }
 }
