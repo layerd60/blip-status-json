@@ -1,0 +1,13 @@
+{
+  "name": "blip-status-json",
+  "version": "0.1.0",
+  "description": "Read-only JSON status for local OpenCrater installation",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "bin": { "blip-status": "index.js" },
+  "engines": { "node": ">=18.17" },
+  "files": ["index.js"],
+  "repository": { "type": "git", "url": "https://github.com/rahatrt/blip-status-json.git" },
+  "scripts": { "test": "node index.js" }
+}
